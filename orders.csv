@@ -1,0 +1,6 @@
+OrderID,CustomerName,DistanceKM,PrepTimeMins,Weather
+9901,Abhijit,4.5,15,Clear
+9902,Surbhi,12.0,20,Rain
+9903,Unknown,-5.0,0,Clear
+9904,Rahul,2.1,55,Clear
+9905,Priya,3.2,10,Clear
